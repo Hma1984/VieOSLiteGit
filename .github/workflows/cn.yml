@@ -8,7 +8,7 @@ on:
         required: true
 
 jobs:
-  PolyxOS_ing:
+  VieOSChinaBuild:
     runs-on: ubuntu-latest
     steps:
       - name: Clean Junks
